@@ -12,6 +12,7 @@
 <body class="loading">
 <h1>500</h1>
 <h2>Unexpected Error <b>:(</b></h2>
+<h3>The page you are trying to access is either not available or under maintenance.</h3>
 <div class="gears">
   <div class="gear one">
     <div class="bar"></div>
