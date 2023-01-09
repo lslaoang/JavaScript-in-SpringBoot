@@ -1,1 +1,2 @@
-# JavaScript-in-SpringBoot
+# JavaScript in SpringBoot
+Front-facing pages.
